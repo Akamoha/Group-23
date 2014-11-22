@@ -1,0 +1,20 @@
+Lessons I learnt from this project - Sanket Gupte
+
+a) Positives of my group
+   Not many except that they don't bother me ever
+   Akshay Damle is a very hard working and dedicated student whose assistance and moral support was invaluable
+   in completing this project
+
+b) Negatives of my group
+   I don't know where to start and if I were to start harping about them, I'd never stop
+   So lets just leave it at that.
+
+c) What I would do differently next time
+   Sometimes I wish I had taken up an English Honours course so that I could study CS on my own terms
+   But I learnt that not all projects can be done in a day (too late though)
+   And there is no better language for Rapid Application Development than Python and I love its OO nature
+   So I would definitely use python any day.
+   
+
+print "Bye bye world"
+ 
